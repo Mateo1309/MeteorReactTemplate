@@ -14,14 +14,7 @@ export default class Main extends React.Component {
     render() {
         return(
             <div>
-              hi!
-              <TextField
-                id="outlined-name"
-                label="Name"
-                margin="normal"
-                variant="outlined"
-              />
-              <CircularProgress/>
+              
             </div>
         );
     }
